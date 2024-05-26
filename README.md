@@ -20,12 +20,12 @@
 
 ## 📈 GitHub Stats
 
-<table width="100%" border="0">
-    <tr>
-        <td width="50%">
+<table width="100%" style="border:0px solid white;">
+    <tr style="border:0px solid white;">
+        <td width="50%" style="border:0px solid white;">
             <img width="100%" src="https://github-readme-stats.vercel.app/api?username=lehuygiang28&show_icons=true&theme=tokyonight" />
         </td>
-        <td width="50%">
+        <td width="50%" style="border:0px solid white;">
             <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=lehuygiang28&theme=tokyonight" />
         </td>
     </tr>
@@ -33,9 +33,9 @@
 
 ---
 
-<table width="100%" border="0">
-    <tr>
-        <td width="50%" valign="top">
+<table width="100%" style="border:0px solid white;">
+    <tr style="border:0px solid white;">
+        <td width="50%" valign="top" style="border:0px solid white;">
             
 ## 🛠️ Tech Stack
 
@@ -46,7 +46,7 @@
 - 🚀 **Deployment**: ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?style=flat&logo=google-cloud) ![Azure](https://img.shields.io/badge/-Azure-black?style=flat&logo=microsoft-azure)
 
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border:0px solid white;">
 
 ## 💻 Languages and Tools
 
