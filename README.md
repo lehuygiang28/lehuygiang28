@@ -20,7 +20,7 @@
 
 ## 📈 GitHub Stats
 
-<table width="100%">
+<table width="100%" border="0">
     <tr>
         <td width="50%">
             <img width="100%" src="https://github-readme-stats.vercel.app/api?username=lehuygiang28&show_icons=true&theme=tokyonight" />
@@ -33,7 +33,7 @@
 
 ---
 
-<table width="100%">
+<table width="100%" border="0">
     <tr>
         <td width="50%" valign="top">
             
