@@ -1,4 +1,4 @@
-[![MainHeader](./images/header-image.png)](https://github.com/lehuygiang28)
+[![MainHeader](https://raw.githubusercontent.com/lehuygiang28/lehuygiang28/main/images/header-image.png)](https://github.com/lehuygiang28)
 
 <p>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=A13B3B&size=20&center=true&vCenter=true&lines=Welcome+to+my+Profile!;I'm+eager+to+learn+and+grow;Wishing+you+a+fantastic+day+ahead!"></p></p>
