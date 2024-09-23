@@ -1,8 +1,3 @@
-[![MainHeader](https://raw.githubusercontent.com/lehuygiang28/lehuygiang28/main/images/header-image.png)](https://github.com/lehuygiang28)
-
-<p>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=A13B3B&size=20&center=true&vCenter=true&lines=Welcome+to+my+Profile!;I'm+eager+to+learn+and+grow;Wishing+you+a+fantastic+day+ahead!"></p></p>
-
 <h1 align="center">Hello, everyone! 👋 I'm Lê Huy Giang</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lehuygiang28&color=blueviolet" alt="Profile View Count">
