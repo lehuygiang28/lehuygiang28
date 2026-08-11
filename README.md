@@ -3,12 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=lehuygiang28&color=blueviolet" alt="Profile View Count">
 </p>
 
-- 🖥️ I'm a **Web Developer**
+- 🖥️ I'm a **Software Engineer**
 - 🌱 I'm an **enthusiast of open-source projects**
-- 🔭 Currently, I'm expanding my knowledge in **Web Development**
-- 💬 Feel free to ask me about **Node.js, Web Development, NPM**
 - 📫 You can reach me at: **lehuygiang28@gmail.com**
-- 📌 Visit my **[Website](https://giaang.id.vn)**
 - 🤝 I'm always open to collaborations and contributions to my projects. Feel free to reach out or submit a pull request!
 
 ## 🛠️ Tech Stack
